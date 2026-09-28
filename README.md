@@ -1,4 +1,5 @@
-Struktur Kode
+Struktur Kode:
+
 Program ini terdiri dari 4 file kelas Java:
 Account.java: Mengelola data saldo nasabah serta fungsi setor (deposit) dan tarik tunai (withdraw).
 Customer.java: Mengelola data profil nasabah (nama) beserta array dari objek Account yang dimilikinya (maksimal 5 akun).
