@@ -18,3 +18,6 @@ Fitur dan Eksplorasi:
 
 Informasi Library Tambahan:
 - Tidak ada library tambahan yang digunakan dalam kode ini. Program sepenuhnya menggunakan fitur bawaan Java dasar.
+
+<img width="1279" height="641" alt="image" src="https://github.com/user-attachments/assets/0d8a86ac-b18f-4e27-a6d2-717a81cc06c0" />
+
